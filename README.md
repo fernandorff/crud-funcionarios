@@ -2,6 +2,6 @@
 
 #
 
-##### API (Back-end): https://desafio-lampp-it-backend-trainee-production.up.railway.app/
+##### API (Back-end): https://crud-funcionarios-production.up.railway.app/
 
-##### APP (Front-end): https://desafio-lampp-it-backend-trainee.vercel.app/
+##### APP (Front-end): https://crud-funcionarios-kohl.vercel.app/
