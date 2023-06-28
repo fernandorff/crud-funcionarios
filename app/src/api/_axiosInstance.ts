@@ -1,7 +1,7 @@
 import axios, { AxiosInstance } from "axios";
 
 const ApiUrl: string =
-  "https://desafio-lampp-it-backend-trainee-production.up.railway.app/";
+  "https://crud-funcionarios-production.up.railway.app/";
 
 const axiosInstance: AxiosInstance = axios.create({
   baseURL: ApiUrl,
