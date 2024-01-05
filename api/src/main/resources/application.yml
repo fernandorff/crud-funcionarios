@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://containers-us-west-133.railway.app:6614/railway
+    url: jdbc:postgres:BAecFEC-D4CF3FG-6-gc*g6Ca*CBD1BD@roundhouse.proxy.rlwy.net:45332/railway
     username: postgres
-    password: cNCQ82RDT4LbY6x7Pkag
+    password: BAecFEC-D4CF3FG-6-gc*g6Ca*CBD1BD
 
 #  jpa:
 #    hibernate:
